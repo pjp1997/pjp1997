@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **impavanprajapati@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Desktop/SE-Pavan-Prajapati-Resume.pdf](file:///C:/Desktop/SE-Pavan-Prajapati-Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
