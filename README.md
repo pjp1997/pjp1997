@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjp1997&label=Profile%20views&color=0e75b6&style=flat" alt="pjp1997" /> </p>
 
-- 🌱 I'm currently proficient in Java OOP, SQL, and data structures in C. Additionally, I have expertise in web development using HTML, CSS, and JavaScript. I am knowledgeable in backend development with PHP and Node.js. Furthermore, I can build mobile applications using Flutter. With my diverse skillset, I can handle a wide range of projects and provide valuable solutions in different areas of software development.**
+- 🌱 I'm currently proficient in Python,Java OOP, SQL, and data structures in C. Additionally, I have expertise in web development using HTML, CSS, and JavaScript. I am knowledgeable in backend development with PHP and Node.js. Furthermore, I can build mobile applications using Flutter. With my diverse skillset, I can handle a wide range of projects and provide valuable solutions in different areas of software development.**
 
 - 📫 How to reach me **impavanprajapati@gmail.com**
 
@@ -16,7 +16,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
+</a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
