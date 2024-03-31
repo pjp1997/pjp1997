@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan Prajapati</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjp1997&label=Profile%20views&color=0e75b6&style=flat" alt="pjp1997" /> </p>
